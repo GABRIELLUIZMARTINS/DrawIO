@@ -1,17 +1,16 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36" version="24.7.17">
   <diagram name="Página-1" id="4iAVA3ac8XLfmWDoB-LY">
-    <mxGraphModel dx="1134" dy="597" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="794" dy="418" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="1HiiKMjsXerNrMeJCwqZ-43" value="" style="rounded=1;whiteSpace=wrap;html=1;glass=1;" vertex="1" parent="1">
-          <mxGeometry x="20" y="280" width="725" height="280" as="geometry" />
+        <mxCell id="1HiiKMjsXerNrMeJCwqZ-43" value="" style="rounded=1;whiteSpace=wrap;html=1;glass=0;" vertex="1" parent="1">
+          <mxGeometry x="10" y="280" width="720" height="290" as="geometry" />
         </mxCell>
-        <mxCell id="1HiiKMjsXerNrMeJCwqZ-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1HiiKMjsXerNrMeJCwqZ-1" target="1HiiKMjsXerNrMeJCwqZ-23">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="1HiiKMjsXerNrMeJCwqZ-1" value="Entrada de água" style="rounded=1;whiteSpace=wrap;html=1;fillStyle=auto;strokeColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="30" y="170" width="90" height="50" as="geometry" />
+        <mxCell id="1HiiKMjsXerNrMeJCwqZ-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="1HiiKMjsXerNrMeJCwqZ-23">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="75" y="220" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="1HiiKMjsXerNrMeJCwqZ-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1HiiKMjsXerNrMeJCwqZ-2" target="1HiiKMjsXerNrMeJCwqZ-3">
           <mxGeometry relative="1" as="geometry" />
@@ -73,13 +72,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="1HiiKMjsXerNrMeJCwqZ-23" value="Redutor de pressão" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="30" y="300" width="90" height="50" as="geometry" />
+          <mxGeometry x="30" y="299" width="90" height="50" as="geometry" />
         </mxCell>
         <mxCell id="1HiiKMjsXerNrMeJCwqZ-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="1HiiKMjsXerNrMeJCwqZ-24" target="1HiiKMjsXerNrMeJCwqZ-17">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="1HiiKMjsXerNrMeJCwqZ-24" value="Válvula de entrada" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="160" y="300" width="90" height="50" as="geometry" />
+          <mxGeometry x="160" y="299" width="90" height="50" as="geometry" />
         </mxCell>
         <mxCell id="1HiiKMjsXerNrMeJCwqZ-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="1HiiKMjsXerNrMeJCwqZ-14" target="1HiiKMjsXerNrMeJCwqZ-2">
           <mxGeometry relative="1" as="geometry">
@@ -94,8 +93,10 @@
         <mxCell id="1HiiKMjsXerNrMeJCwqZ-33" value="Bomba de diafragma" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="480" y="364" width="90" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="1HiiKMjsXerNrMeJCwqZ-46" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1HiiKMjsXerNrMeJCwqZ-34" target="1HiiKMjsXerNrMeJCwqZ-45">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="1HiiKMjsXerNrMeJCwqZ-46" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1HiiKMjsXerNrMeJCwqZ-34">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="665" y="220" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="1HiiKMjsXerNrMeJCwqZ-34" value="Válvula de&amp;nbsp; água gelada" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="620" y="299" width="90" height="50" as="geometry" />
@@ -114,8 +115,17 @@
         <mxCell id="1HiiKMjsXerNrMeJCwqZ-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="1HiiKMjsXerNrMeJCwqZ-17" target="1HiiKMjsXerNrMeJCwqZ-35">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="1HiiKMjsXerNrMeJCwqZ-45" value="Saída de água" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="620" y="170" width="90" height="50" as="geometry" />
+        <mxCell id="1HiiKMjsXerNrMeJCwqZ-47" value="Entrada de água" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="45" y="180" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1HiiKMjsXerNrMeJCwqZ-48" value="Entrada de água" style="rounded=1;whiteSpace=wrap;html=1;fillStyle=auto;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="30" y="40" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="1HiiKMjsXerNrMeJCwqZ-50" value="Saída de água" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="630" y="30" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="1HiiKMjsXerNrMeJCwqZ-51" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;text-wrap: wrap; background-color: initial;&quot;&gt;Saída água&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="625" y="190" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
