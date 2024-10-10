@@ -1,9 +1,122 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36" version="24.7.17">
   <diagram name="Página-1" id="4iAVA3ac8XLfmWDoB-LY">
-    <mxGraphModel>
+    <mxGraphModel dx="1134" dy="597" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="1HiiKMjsXerNrMeJCwqZ-43" value="" style="rounded=1;whiteSpace=wrap;html=1;glass=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="280" width="725" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="1HiiKMjsXerNrMeJCwqZ-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1HiiKMjsXerNrMeJCwqZ-1" target="1HiiKMjsXerNrMeJCwqZ-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1HiiKMjsXerNrMeJCwqZ-1" value="Entrada de água" style="rounded=1;whiteSpace=wrap;html=1;fillStyle=auto;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="30" y="170" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="1HiiKMjsXerNrMeJCwqZ-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1HiiKMjsXerNrMeJCwqZ-2" target="1HiiKMjsXerNrMeJCwqZ-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1HiiKMjsXerNrMeJCwqZ-2" value="Compressor" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="504" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="1HiiKMjsXerNrMeJCwqZ-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1HiiKMjsXerNrMeJCwqZ-3" target="1HiiKMjsXerNrMeJCwqZ-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1HiiKMjsXerNrMeJCwqZ-3" value="Condensador" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="319" y="504" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="1HiiKMjsXerNrMeJCwqZ-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1HiiKMjsXerNrMeJCwqZ-4" target="1HiiKMjsXerNrMeJCwqZ-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1HiiKMjsXerNrMeJCwqZ-4" value="Filtro Seco" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="504" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="1HiiKMjsXerNrMeJCwqZ-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="1HiiKMjsXerNrMeJCwqZ-5" target="1HiiKMjsXerNrMeJCwqZ-14">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="240" y="389" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1HiiKMjsXerNrMeJCwqZ-5" value="Tubo Capilar" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="414" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="1HiiKMjsXerNrMeJCwqZ-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.75;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="1HiiKMjsXerNrMeJCwqZ-8">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="428" y="422.5" as="targetPoint" />
+            <mxPoint x="665" y="410" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="665" y="423" />
+              <mxPoint x="440" y="423" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1HiiKMjsXerNrMeJCwqZ-8" value="Check Valve" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="620" y="364" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="1HiiKMjsXerNrMeJCwqZ-18" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="300" y="304" width="128" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="1HiiKMjsXerNrMeJCwqZ-14" value="&lt;p&gt;&lt;/p&gt;&lt;p style=&quot;padding-right: 0px; margin-top: 12px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillStyle=auto;gradientColor=none;fillColor=default;glass=0;" vertex="1" parent="1HiiKMjsXerNrMeJCwqZ-18">
+          <mxGeometry width="128" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="1HiiKMjsXerNrMeJCwqZ-6" value="Evaporador" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1HiiKMjsXerNrMeJCwqZ-18">
+          <mxGeometry x="18" y="50" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="1HiiKMjsXerNrMeJCwqZ-7" value="Sensor de temperatura" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1HiiKMjsXerNrMeJCwqZ-18">
+          <mxGeometry x="18" y="110" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="1HiiKMjsXerNrMeJCwqZ-17" value="Tanque de água" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1HiiKMjsXerNrMeJCwqZ-18">
+          <mxGeometry width="128" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="1HiiKMjsXerNrMeJCwqZ-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1HiiKMjsXerNrMeJCwqZ-23" target="1HiiKMjsXerNrMeJCwqZ-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1HiiKMjsXerNrMeJCwqZ-23" value="Redutor de pressão" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="300" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="1HiiKMjsXerNrMeJCwqZ-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="1HiiKMjsXerNrMeJCwqZ-24" target="1HiiKMjsXerNrMeJCwqZ-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1HiiKMjsXerNrMeJCwqZ-24" value="Válvula de entrada" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="300" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="1HiiKMjsXerNrMeJCwqZ-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="1HiiKMjsXerNrMeJCwqZ-14" target="1HiiKMjsXerNrMeJCwqZ-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="485" y="450" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1HiiKMjsXerNrMeJCwqZ-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1HiiKMjsXerNrMeJCwqZ-33" target="1HiiKMjsXerNrMeJCwqZ-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1HiiKMjsXerNrMeJCwqZ-33" value="Bomba de diafragma" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="364" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="1HiiKMjsXerNrMeJCwqZ-46" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1HiiKMjsXerNrMeJCwqZ-34" target="1HiiKMjsXerNrMeJCwqZ-45">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1HiiKMjsXerNrMeJCwqZ-34" value="Válvula de&amp;nbsp; água gelada" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="620" y="299" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="1HiiKMjsXerNrMeJCwqZ-41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1HiiKMjsXerNrMeJCwqZ-35" target="1HiiKMjsXerNrMeJCwqZ-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1HiiKMjsXerNrMeJCwqZ-35" value="Check Valve" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="299" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="1HiiKMjsXerNrMeJCwqZ-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="1HiiKMjsXerNrMeJCwqZ-17" target="1HiiKMjsXerNrMeJCwqZ-33">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1HiiKMjsXerNrMeJCwqZ-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="1HiiKMjsXerNrMeJCwqZ-17" target="1HiiKMjsXerNrMeJCwqZ-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1HiiKMjsXerNrMeJCwqZ-45" value="Saída de água" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="620" y="170" width="90" height="50" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
